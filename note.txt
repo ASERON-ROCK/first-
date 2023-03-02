@@ -1,0 +1,3 @@
+for ant file untract to staging are  {git add file.extention}
+git add -A ( all file go to staging ariea)
+touch file.extention(for creat a file  )

@@ -1,6 +1,8 @@
 for ant file untract to staging are  {git add file.extention}
 git add -A ( all file go to staging ariea)
 touch file.extention(for creat a file  )
+git commit file.extention(for single file commit)
+ press i ,Initian commit,esc+:wq ( for exit)
 git commit -m " added more htmls " ( for full commit )
 git checkout file.extention(for recovery the file)
 git chckout -f(for all recovery file)

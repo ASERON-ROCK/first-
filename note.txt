@@ -22,3 +22,4 @@ for skipe filr
     brach is a copy of main project 
     to create new brach { gir branch anyname }
     go to new created brach { git checkout anyname}
+    for merge ( statay master brach & git merge copy1)

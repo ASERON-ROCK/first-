@@ -1,4 +1,4 @@
-// this file is eddit by Akbera 
+// this file is eddit by Akbera
 #include <stdio.h>
 void main()
 {

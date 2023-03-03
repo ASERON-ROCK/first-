@@ -13,3 +13,8 @@ git diff --staged (comper last satged to commit state )
 git rm file.extention ( to remuve the file stated and commit )
 git rm --cached (onli rmuve staged on hhd)
 
+for skipe filr 
+  touch .gitignore
+   whic file we want to nor push this file name add in 
+   gitignore file 
+   

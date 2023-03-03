@@ -20,4 +20,5 @@ for skipe filr
 
    most importent (branch)
     brach is a copy of main project 
-    
+    to create new brach { gir branch anyname }
+    go to new created brach { git checkout anyname}

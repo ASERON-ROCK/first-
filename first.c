@@ -15,7 +15,7 @@ void main()
             break;
         }
     }
-    if (flag == 4)
+    if (flag == 0)
     {
         printf("number is prime");
     }

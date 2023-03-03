@@ -7,4 +7,4 @@ git commit -m " added more htmls " ( for full commit )
 git checkout file.extention(for recovery the file)
 git chckout -f(for all recovery file)
 
-git diff --staged (comper last satged to working satate )
+git diff --staged (comper last satged to commit state )

@@ -8,3 +8,7 @@ git checkout file.extention(for recovery the file)
 git chckout -f(for all recovery file)
 gir diff 
 git diff --staged (comper last satged to commit state )
+
+
+git rm file.extention ( to remuve the file stated and commit )
+

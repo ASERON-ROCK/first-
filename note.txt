@@ -6,5 +6,5 @@ git commit file.extention(for single file commit)
 git commit -m " added more htmls " ( for full commit )
 git checkout file.extention(for recovery the file)
 git chckout -f(for all recovery file)
-
+gir diff 
 git diff --staged (comper last satged to commit state )

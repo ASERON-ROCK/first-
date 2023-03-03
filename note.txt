@@ -19,4 +19,5 @@ for skipe filr
    gitignore file 
 
    most importent (branch)
+    brach is a copy of main project 
     
